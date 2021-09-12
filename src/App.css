@@ -1,0 +1,47 @@
+.Sidebar{
+  background-color: #282c34;
+  margin: 0;
+  padding: 0;
+  color: whitesmoke;
+  padding-bottom: 33%;
+  font-size: 20px;
+}
+
+.Body{
+  background-color: #ecf2f7;
+  margin: 0;
+  padding: 0;
+}
+
+.Icons{
+  padding-right: 3%;
+}
+
+.Home{
+  margin-top: 10%;
+}
+
+.Content{
+  margin-top: 10%;
+  text-align: center;
+}
+
+.DashBoard{
+  margin-top: 3%;
+  padding-left: 2%;
+}
+
+.ModalTable{
+  height: 130px;
+  overflow: scroll;
+}
+
+.CourseDetails{
+  margin-top: 3%;
+  padding-left: 2%;
+}
+
+.CourseTable{
+  height: 300px;
+  overflow: scroll;
+}
