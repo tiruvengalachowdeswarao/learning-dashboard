@@ -441,7 +441,7 @@ class App extends React.Component {
                         </Card>
                         <Modal show={this.state.setShowViewEmployeeComplianceDetails} onHide={this.hideEmployeeComplianceDetails} centered>
                           <Modal.Header closeButton>
-                            <Modal.Title>Employee Details</Modal.Title>
+                            <Modal.Title>Security complaint Employees</Modal.Title>
                           </Modal.Header>
                           <Modal.Body>
                             <div className="ModalTable">
@@ -478,7 +478,7 @@ class App extends React.Component {
                         </Card>
                         <Modal show={this.state.setShowViewEmployeeNonComplianceDetails} onHide={this.hideEmployeeNonComplianceDetails} centered>
                           <Modal.Header closeButton>
-                            <Modal.Title>Employee Details</Modal.Title>
+                            <Modal.Title>Security Non-complaint Employees</Modal.Title>
                           </Modal.Header>
                           <Modal.Body>
                             <div className="ModalTable">
